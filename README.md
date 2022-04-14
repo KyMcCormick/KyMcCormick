@@ -1,4 +1,4 @@
- - Hello I am Ky/Thistle McCormick and this is my gitHub for personal projects
+ - Hello I am Ky McCormick and this is my gitHub for personal projects
  - My pronouns are They/Them
  - Drexel University CS Student
  - BS in Computer Science 2025
